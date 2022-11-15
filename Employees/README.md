@@ -6,7 +6,8 @@
 * Doxygen also makes a heicharchy chart for a better understanding of class relations.
 
 ### The Source code
-*This was provided and the comments were done by me. All classes, functions, and members have comments.The classes are Employee, Officer, and Supervisor.
+* This was provided and the comments were done by me. All classes, functions, and members have comments.The classes are Employee, Officer, and Supervisor.
+
 ![Screenshot from 2022-11-15 16-52-10](https://user-images.githubusercontent.com/89400113/202042249-018a47e7-b0a6-4c83-be99-96e73435319a.png)
 #### Author
 Jacqueline Bybee
