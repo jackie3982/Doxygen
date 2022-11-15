@@ -1,3 +1,12 @@
+/**
+ * @file Officer.cpp
+ * @author Jacqueline Bybee
+ * @date 2022-11-15
+ * @brief Class file for the child class Officer
+ * 
+ * 
+ */
+
 #include "Officer.h"
 #include <iostream>
 

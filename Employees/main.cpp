@@ -1,3 +1,12 @@
+/**
+ * @file main.cpp
+ * @author Jacqueline Bybee
+ * @date 2022-11-15
+ * @brief Main driver of the employee program, Calls The Employee, Officer, and Supervisor classes.
+ * 
+ * 
+ */
+
 
 #include <iostream>
 #include "Employee.h"
@@ -6,6 +15,16 @@
 
 using namespace std;
 
+
+/**
+ * Helper function to run the functions of employee.
+ *
+ * @param Employee & e Employee object
+ * @pre 
+ * @return void 
+ * @post 
+ * 
+ */
 void runEmployeeTests(Employee & e);
 
 int main() {

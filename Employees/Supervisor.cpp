@@ -1,3 +1,12 @@
+/**
+ * @file Supervisor.cpp
+ * @author Jacqueline Bybee
+ * @date 2022-11-13
+ * @brief class file for Suppervisor
+ * 
+ * 
+ */
+
 #include "Supervisor.h"
 #include <iostream>
 

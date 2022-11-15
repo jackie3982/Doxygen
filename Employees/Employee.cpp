@@ -1,3 +1,12 @@
+/**
+ * @file Employee.cpp
+ * @author Jacqueline Bybee
+ * @date 2022-11-15
+ * @brief This is a parent class of Officer and Supervisor. This is the header file for the Employee class
+ * 
+ * 
+ */
+
 #include "Employee.h"
 #include <iostream>
 
